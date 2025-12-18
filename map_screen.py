@@ -1,4 +1,5 @@
 # map_screen.py 파일
+import pygame
 
 class MapScreen:
     def __init__(self, screen, manager):
